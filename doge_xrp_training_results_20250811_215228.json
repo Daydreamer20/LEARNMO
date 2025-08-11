@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "final_balance": 737.699408980971,
+    "total_return": -26.230059101902896,
+    "total_trades": 6,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "training_duration_minutes": 0.004259045918782552
+  },
+  "symbol_performance": {
+    "DOGE": {
+      "trades": 3,
+      "pnl": -128.98569271444006,
+      "win_rate": 0.0
+    },
+    "XRP": {
+      "trades": 3,
+      "pnl": -133.3148983045889,
+      "win_rate": 0.0
+    }
+  },
+  "parameters": {
+    "leverage": 15.0,
+    "position_size_pct": 0.15,
+    "stop_loss_pct": 0.02,
+    "take_profit_pct": 0.035,
+    "momentum_threshold": 0.002,
+    "volume_multiplier": 1.4,
+    "rsi_lower": 30.0,
+    "rsi_upper": 70.0,
+    "max_positions_per_symbol": 1,
+    "max_total_positions": 2,
+    "min_balance": 100.0
+  },
+  "timestamp": "2025-08-11T21:52:28.307147"
+}

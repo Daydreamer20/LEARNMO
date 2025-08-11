@@ -1,0 +1,14 @@
+{"time":"2025-08-11T21:50:57.5902686+08:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-11T21:57:19.562183+08:00","level":"INFO","msg":"stream: created new stream","id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:19.562183+08:00","level":"INFO","msg":"stream: started","id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:19.562183+08:00","level":"INFO","msg":"handler: started","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:19.562183+08:00","level":"INFO","msg":"sender: started","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:19.5627176+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:19.5643289+08:00","level":"INFO","msg":"stream: closing","id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:20.3766881+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-08-11T21:57:20.3771968+08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project /doge-xrp-training not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-08-11T21:57:20.3785962+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-11T21:57:20.3785962+08:00","level":"INFO","msg":"handler: closed","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:20.3785962+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:20.3785962+08:00","level":"INFO","msg":"sender: closed","stream_id":"zyjw3mfh"}
+{"time":"2025-08-11T21:57:20.3791375+08:00","level":"INFO","msg":"stream: closed","id":"zyjw3mfh"}
