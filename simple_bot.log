@@ -1,0 +1,8 @@
+2025-08-08 17:25:57,821 - bybit_client - INFO - Time synced with Bybit. Offset: -6s
+2025-08-08 17:25:57,821 - __main__ - INFO - Simple scalping bot initialized
+2025-08-08 17:25:57,821 - __main__ - INFO - Starting simple scalping bot...
+2025-08-08 17:25:58,266 - __main__ - INFO - Account balance: $26.30 USDT
+2025-08-08 17:25:58,720 - __main__ - INFO - SIRENUSDT price: $0.09215
+2025-08-08 17:25:58,720 - __main__ - INFO - All systems validated successfully
+2025-08-08 17:26:15,821 - __main__ - INFO - SIRENUSDT: Low volume: 0.07x average
+2025-08-08 17:28:09,961 - __main__ - INFO - SIRENUSDT: Low volume: 0.02x average

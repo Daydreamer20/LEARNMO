@@ -1,0 +1,45 @@
+2025-08-08 17:36:21,044 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:36:21,047 - __main__ - INFO - Simple trading bot initialized (no AI dependency)
+2025-08-08 17:36:21,048 - __main__ - INFO - Starting simple trading bot...
+2025-08-08 17:36:21,689 - __main__ - INFO - Account balance: $26.30 USDT
+2025-08-08 17:36:22,361 - __main__ - INFO - All systems validated successfully
+2025-08-08 17:36:24,188 - __main__ - INFO - SIRENUSDT Technical Signal: SELL (confidence: 85%)
+2025-08-08 17:36:24,188 - __main__ - INFO - Reasoning: Technical analysis: RSI=41.4, EMA trend=bearish, Volume=0.4x
+2025-08-08 17:36:25,126 - risk_manager - INFO - Selected leverage 100x (liquidation at 0.5%, stop at 0.1%)
+2025-08-08 17:36:25,126 - risk_manager - INFO - Stop loss price: 0.091254 (0.400% from entry)
+2025-08-08 17:36:25,127 - risk_manager - INFO - Take profit price: 0.090163 (R:R = 1:2.0)
+2025-08-08 17:36:25,127 - risk_manager - INFO - Calculated position size: 289.399739 contracts ($65.76 notional)
+2025-08-08 17:36:25,127 - __main__ - WARNING - Trade validation failed: Price 0.09089 not aligned with tick size 1e-05
+2025-08-08 17:36:45,533 - __main__ - INFO - SIRENUSDT Technical Signal: SELL (confidence: 85%)
+2025-08-08 17:36:45,534 - __main__ - INFO - Reasoning: Technical analysis: RSI=42.5, EMA trend=bearish, Volume=0.6x
+2025-08-08 17:36:46,631 - risk_manager - INFO - Selected leverage 100x (liquidation at 0.5%, stop at 0.1%)
+2025-08-08 17:36:46,631 - risk_manager - INFO - Stop loss price: 0.091344 (0.400% from entry)
+2025-08-08 17:36:46,631 - risk_manager - INFO - Take profit price: 0.090252 (R:R = 1:2.0)
+2025-08-08 17:36:46,631 - risk_manager - INFO - Calculated position size: 289.113457 contracts ($65.76 notional)
+2025-08-08 17:36:46,631 - __main__ - WARNING - Trade validation failed: Price 0.09098 not aligned with tick size 1e-05
+2025-08-08 17:37:06,384 - __main__ - INFO - SIRENUSDT Technical Signal: SELL (confidence: 88%)
+2025-08-08 17:37:06,384 - __main__ - INFO - Reasoning: Technical analysis: RSI=49.7, EMA trend=bearish, Volume=1.6x
+2025-08-08 17:37:07,268 - risk_manager - INFO - Selected leverage 100x (liquidation at 0.5%, stop at 0.1%)
+2025-08-08 17:37:07,268 - risk_manager - INFO - Stop loss price: 0.092338 (0.400% from entry)
+2025-08-08 17:37:07,268 - risk_manager - INFO - Take profit price: 0.091234 (R:R = 1:2.0)
+2025-08-08 17:37:07,268 - risk_manager - INFO - Calculated position size: 286.001330 contracts ($65.76 notional)
+2025-08-08 17:37:07,268 - __main__ - WARNING - Trade validation failed: Price 0.09197 not aligned with tick size 1e-05
+2025-08-08 17:37:27,439 - __main__ - INFO - SIRENUSDT Technical Signal: SELL (confidence: 85%)
+2025-08-08 17:37:27,441 - __main__ - INFO - Reasoning: Technical analysis: RSI=48.2, EMA trend=bearish, Volume=0.5x
+2025-08-08 17:37:28,425 - risk_manager - INFO - Selected leverage 100x (liquidation at 0.5%, stop at 0.1%)
+2025-08-08 17:37:28,431 - risk_manager - INFO - Stop loss price: 0.092167 (0.400% from entry)
+2025-08-08 17:37:28,431 - risk_manager - INFO - Take profit price: 0.091066 (R:R = 1:2.0)
+2025-08-08 17:37:28,431 - risk_manager - INFO - Calculated position size: 286.530962 contracts ($65.76 notional)
+2025-08-08 17:37:28,431 - __main__ - WARNING - Trade validation failed: Price 0.0918 not aligned with tick size 1e-05
+2025-08-08 17:37:49,127 - __main__ - INFO - SIRENUSDT Technical Signal: SELL (confidence: 85%)
+2025-08-08 17:37:49,128 - __main__ - INFO - Reasoning: Technical analysis: RSI=49.4, EMA trend=bearish, Volume=0.7x
+2025-08-08 17:37:50,082 - risk_manager - INFO - Selected leverage 100x (liquidation at 0.5%, stop at 0.1%)
+2025-08-08 17:37:50,082 - risk_manager - INFO - Stop loss price: 0.092177 (0.400% from entry)
+2025-08-08 17:37:50,082 - risk_manager - INFO - Take profit price: 0.091076 (R:R = 1:2.0)
+2025-08-08 17:37:50,082 - risk_manager - INFO - Calculated position size: 286.499753 contracts ($65.76 notional)
+2025-08-08 17:37:50,082 - __main__ - WARNING - Trade validation failed: Price 0.09181 not aligned with tick size 1e-05
+2025-08-08 17:40:05,534 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:40:05,534 - __main__ - INFO - Simple trading bot initialized (no AI dependency)
+2025-08-08 17:40:05,539 - __main__ - INFO - Starting simple trading bot...
+2025-08-08 17:40:05,987 - __main__ - INFO - Account balance: $26.30 USDT
+2025-08-08 17:40:06,450 - __main__ - INFO - All systems validated successfully

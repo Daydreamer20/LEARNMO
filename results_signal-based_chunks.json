@@ -1,0 +1,113 @@
+{
+  "config": {
+    "initial_balance": 1000,
+    "leverage": 10,
+    "stop_loss_pct": 0.02,
+    "take_profit_pct": 0.04,
+    "position_size_pct": 0.1
+  },
+  "data_file": "BYBIT_SIRENUSDT.P, 5_e106e.csv",
+  "timestamp": "2025-08-11T09:49:23.540425",
+  "results": [
+    {
+      "chunk_id": 0,
+      "start_time": "2025-08-07 08:50:00",
+      "end_time": "2025-08-07 16:30:00",
+      "rows": 93,
+      "trades": 0,
+      "winning_trades": 0,
+      "win_rate": 0,
+      "total_pnl": 0,
+      "final_balance": 1000,
+      "return_pct": 0,
+      "trade_details": []
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "2025-08-07 17:40:00",
+      "end_time": "2025-08-07 23:10:00",
+      "rows": 67,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -23.155977624560816,
+      "final_balance": 976.8440223754392,
+      "return_pct": -2.3155977624560817,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-07 17:40:00",
+          "exit_time": "2025-08-07 19:00:00",
+          "side": "LONG",
+          "entry_price": 0.07687,
+          "exit_price": 0.07509,
+          "quantity": 13008.976193573566,
+          "pnl": -23.155977624560816,
+          "pnl_pct": -0.23155977624560817,
+          "exit_reason": "SL"
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "2025-08-08 03:15:00",
+      "end_time": "2025-08-08 05:50:00",
+      "rows": 32,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -47.488484316736134,
+      "final_balance": 952.5115156832638,
+      "return_pct": -4.748848431673617,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-08 03:15:00",
+          "exit_time": "2025-08-08 03:20:00",
+          "side": "LONG",
+          "entry_price": 0.09118,
+          "exit_price": 0.08685,
+          "quantity": 10967.317394165388,
+          "pnl": -47.488484316736134,
+          "pnl_pct": -0.47488484316736135,
+          "exit_reason": "SL"
+        }
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "2025-08-08 06:40:00",
+      "end_time": "2025-08-08 08:20:00",
+      "rows": 21,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -49.99393277514863,
+      "final_balance": 950.0060672248513,
+      "return_pct": -4.999393277514867,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-08 06:40:00",
+          "exit_time": "2025-08-08 07:15:00",
+          "side": "SHORT",
+          "entry_price": 0.08241,
+          "exit_price": 0.08653,
+          "quantity": 12134.449702705982,
+          "pnl": -49.99393277514863,
+          "pnl_pct": -0.4999393277514863,
+          "exit_reason": "SL"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "total_chunks": 4,
+    "profitable_chunks": 0,
+    "total_trades": 3,
+    "overall_win_rate": 0.0,
+    "total_pnl": -120.63839471644559,
+    "avg_chunk_return": -4.021279823881522,
+    "best_chunk_return": -2.3155977624560817,
+    "worst_chunk_return": -4.999393277514867,
+    "return_std": 1.2104287534990257,
+    "win_rate_consistency": 0.0
+  }
+}

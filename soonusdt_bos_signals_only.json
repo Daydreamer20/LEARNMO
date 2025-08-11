@@ -1,0 +1,415 @@
+{
+  "config": {
+    "initial_balance": 1000,
+    "leverage": 10,
+    "stop_loss_pct": 0.015,
+    "take_profit_pct": 0.03,
+    "position_size_pct": 0.1
+  },
+  "data_file": "BYBIT_SOONUSDT.P, 3_08827.csv",
+  "timestamp": "2025-08-11T09:58:56.736627",
+  "results": [
+    {
+      "chunk_id": 0,
+      "start_time": "2025-08-09 03:00:00",
+      "end_time": "2025-08-09 04:03:00",
+      "rows": 22,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -21.944922547332155,
+      "final_balance": 978.0550774526679,
+      "return_pct": -2.1944922547332113,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 03:00:00",
+          "exit_time": "2025-08-09 03:03:00",
+          "side": "LONG",
+          "entry_price": 0.2324,
+          "exit_price": 0.2273,
+          "quantity": 4302.925989672977,
+          "pnl": -21.944922547332155,
+          "pnl_pct": -0.21944922547332155,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "2025-08-09 06:09:00",
+      "end_time": "2025-08-09 08:03:00",
+      "rows": 39,
+      "trades": 1,
+      "winning_trades": 1,
+      "win_rate": 1.0,
+      "total_pnl": 32.76402927849432,
+      "final_balance": 1032.7640292784943,
+      "return_pct": 3.276402927849426,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 06:09:00",
+          "exit_time": "2025-08-09 07:09:00",
+          "side": "LONG",
+          "entry_price": 0.2869,
+          "exit_price": 0.2963,
+          "quantity": 3485.535029627048,
+          "pnl": 32.76402927849432,
+          "pnl_pct": 0.3276402927849432,
+          "exit_reason": "TP",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "start_time": "2025-08-09 09:00:00",
+      "end_time": "2025-08-09 09:57:00",
+      "rows": 20,
+      "trades": 0,
+      "winning_trades": 0,
+      "win_rate": 0,
+      "total_pnl": 0,
+      "final_balance": 1000,
+      "return_pct": 0,
+      "trade_details": []
+    },
+    {
+      "chunk_id": 3,
+      "start_time": "2025-08-09 10:03:00",
+      "end_time": "2025-08-09 12:57:00",
+      "rows": 59,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -21.04932453660081,
+      "final_balance": 978.9506754633992,
+      "return_pct": -2.104932453660081,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 10:03:00",
+          "exit_time": "2025-08-09 10:12:00",
+          "side": "LONG",
+          "entry_price": 0.3183,
+          "exit_price": 0.3116,
+          "quantity": 3141.6902293433864,
+          "pnl": -21.04932453660081,
+          "pnl_pct": -0.2104932453660081,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "start_time": "2025-08-09 13:33:00",
+      "end_time": "2025-08-09 14:36:00",
+      "rows": 22,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -15.262694452597541,
+      "final_balance": 984.7373055474025,
+      "return_pct": -1.5262694452597543,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 13:33:00",
+          "exit_time": "2025-08-09 13:39:00",
+          "side": "LONG",
+          "entry_price": 0.3407,
+          "exit_price": 0.3355,
+          "quantity": 2935.1335485764603,
+          "pnl": -15.262694452597541,
+          "pnl_pct": -0.15262694452597542,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "start_time": "2025-08-09 16:00:00",
+      "end_time": "2025-08-09 18:00:00",
+      "rows": 41,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -42.785833135250805,
+      "final_balance": 957.2141668647492,
+      "return_pct": -4.2785833135250755,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 16:00:00",
+          "exit_time": "2025-08-09 16:06:00",
+          "side": "LONG",
+          "entry_price": 0.4207,
+          "exit_price": 0.4027,
+          "quantity": 2376.9907297361538,
+          "pnl": -42.785833135250805,
+          "pnl_pct": -0.42785833135250806,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "start_time": "2025-08-09 19:00:00",
+      "end_time": "2025-08-09 20:09:00",
+      "rows": 24,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -15.939990623534865,
+      "final_balance": 984.0600093764651,
+      "return_pct": -1.5939990623534868,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 19:00:00",
+          "exit_time": "2025-08-09 19:06:00",
+          "side": "LONG",
+          "entry_price": 0.4266,
+          "exit_price": 0.4198,
+          "quantity": 2344.116268166901,
+          "pnl": -15.939990623534865,
+          "pnl_pct": -0.15939990623534864,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "start_time": "2025-08-09 20:36:00",
+      "end_time": "2025-08-10 00:18:00",
+      "rows": 75,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -19.469026548672634,
+      "final_balance": 980.5309734513273,
+      "return_pct": -1.9469026548672674,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-09 20:36:00",
+          "exit_time": "2025-08-09 21:06:00",
+          "side": "LONG",
+          "entry_price": 0.452,
+          "exit_price": 0.4432,
+          "quantity": 2212.3893805309735,
+          "pnl": -19.469026548672634,
+          "pnl_pct": -0.19469026548672633,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 8,
+      "start_time": "2025-08-10 02:30:00",
+      "end_time": "2025-08-10 04:03:00",
+      "rows": 32,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -19.259259259259398,
+      "final_balance": 980.7407407407406,
+      "return_pct": -1.9259259259259351,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 02:30:00",
+          "exit_time": "2025-08-10 02:39:00",
+          "side": "LONG",
+          "entry_price": 0.54,
+          "exit_price": 0.5296,
+          "quantity": 1851.8518518518517,
+          "pnl": -19.259259259259398,
+          "pnl_pct": -0.19259259259259398,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 9,
+      "start_time": "2025-08-10 08:24:00",
+      "end_time": "2025-08-10 09:42:00",
+      "rows": 27,
+      "trades": 0,
+      "winning_trades": 0,
+      "win_rate": 0,
+      "total_pnl": 0,
+      "final_balance": 1000,
+      "return_pct": 0,
+      "trade_details": []
+    },
+    {
+      "chunk_id": 10,
+      "start_time": "2025-08-10 09:51:00",
+      "end_time": "2025-08-10 11:30:00",
+      "rows": 34,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -35.483238580670466,
+      "final_balance": 964.5167614193296,
+      "return_pct": -3.5483238580670444,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 09:51:00",
+          "exit_time": "2025-08-10 09:54:00",
+          "side": "LONG",
+          "entry_price": 0.5101,
+          "exit_price": 0.492,
+          "quantity": 1960.399921584003,
+          "pnl": -35.483238580670466,
+          "pnl_pct": -0.3548323858067047,
+          "exit_reason": "SL",
+          "entry_signal": "Bullish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 11,
+      "start_time": "2025-08-10 12:03:00",
+      "end_time": "2025-08-10 13:09:00",
+      "rows": 23,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -16.868019147481235,
+      "final_balance": 983.1319808525187,
+      "return_pct": -1.686801914748128,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 12:03:00",
+          "exit_time": "2025-08-10 12:18:00",
+          "side": "SHORT",
+          "entry_price": 0.4387,
+          "exit_price": 0.4461,
+          "quantity": 2279.462046956918,
+          "pnl": -16.868019147481235,
+          "pnl_pct": -0.16868019147481234,
+          "exit_reason": "SL",
+          "entry_signal": "Bearish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 12,
+      "start_time": "2025-08-10 14:15:00",
+      "end_time": "2025-08-10 15:18:00",
+      "rows": 22,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -26.106987458407954,
+      "final_balance": 973.893012541592,
+      "return_pct": -2.6106987458407955,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 14:15:00",
+          "exit_time": "2025-08-10 14:21:00",
+          "side": "SHORT",
+          "entry_price": 0.3907,
+          "exit_price": 0.4009,
+          "quantity": 2559.5085743537243,
+          "pnl": -26.106987458407954,
+          "pnl_pct": -0.26106987458407954,
+          "exit_reason": "SL",
+          "entry_signal": "Bearish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 13,
+      "start_time": "2025-08-10 18:18:00",
+      "end_time": "2025-08-10 19:27:00",
+      "rows": 24,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -24.554223911136987,
+      "final_balance": 975.445776088863,
+      "return_pct": -2.4554223911137,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 18:18:00",
+          "exit_time": "2025-08-10 18:27:00",
+          "side": "SHORT",
+          "entry_price": 0.3421,
+          "exit_price": 0.3505,
+          "quantity": 2923.1218941829875,
+          "pnl": -24.554223911136987,
+          "pnl_pct": -0.24554223911136985,
+          "exit_reason": "SL",
+          "entry_signal": "Bearish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 14,
+      "start_time": "2025-08-10 20:12:00",
+      "end_time": "2025-08-10 21:21:00",
+      "rows": 24,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -18.00787844682053,
+      "final_balance": 981.9921215531795,
+      "return_pct": -1.800787844682054,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 20:12:00",
+          "exit_time": "2025-08-10 20:18:00",
+          "side": "SHORT",
+          "entry_price": 0.3554,
+          "exit_price": 0.3618,
+          "quantity": 2813.7310073157005,
+          "pnl": -18.00787844682053,
+          "pnl_pct": -0.1800787844682053,
+          "exit_reason": "SL",
+          "entry_signal": "Bearish BOS"
+        }
+      ]
+    },
+    {
+      "chunk_id": 15,
+      "start_time": "2025-08-10 22:06:00",
+      "end_time": "2025-08-10 23:57:00",
+      "rows": 38,
+      "trades": 1,
+      "winning_trades": 0,
+      "win_rate": 0.0,
+      "total_pnl": -16.15188438651171,
+      "final_balance": 983.8481156134883,
+      "return_pct": -1.615188438651171,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-10 22:06:00",
+          "exit_time": "2025-08-10 22:27:00",
+          "side": "SHORT",
+          "entry_price": 0.3529,
+          "exit_price": 0.3586,
+          "quantity": 2833.6639274582035,
+          "pnl": -16.15188438651171,
+          "pnl_pct": -0.1615188438651171,
+          "exit_reason": "SL",
+          "entry_signal": "Bearish BOS"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "total_chunks": 16,
+    "profitable_chunks": 1,
+    "total_trades": 14,
+    "overall_win_rate": 0.07142857142857142,
+    "total_pnl": -260.1192537557828,
+    "avg_chunk_return": -1.8579946696841632,
+    "best_chunk_return": 3.276402927849426,
+    "worst_chunk_return": -4.2785833135250755,
+    "return_std": 1.6137795493909537,
+    "win_rate_consistency": 0.25753937681885636
+  }
+}

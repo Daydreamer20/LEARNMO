@@ -1,0 +1,11 @@
+Running strategy: Time_6H_Test
+Running backtest on 3 chunks using time method...
+✅ Test completed!
+💰 Total PnL: $48.04
+📊 Win Rate: 37.3%
+📈 Avg Return: 1.60%
+🎯 Total Trades: 59
+📦 Chunks: 3
+
+🔗 Check your dashboard at:
+   https://wandb.ai/elytuyor-department-of-education/soonusdt-test-experiment

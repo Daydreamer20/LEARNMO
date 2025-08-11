@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.9",
+  "startedAt": "2025-08-11T02:14:08.578675Z",
+  "args": [
+    "--sweep-type",
+    "basic",
+    "--count",
+    "20"
+  ],
+  "program": "D:\\PINESCRIPT\\run_hyperparameter_sweep.py",
+  "codePath": "run_hyperparameter_sweep.py",
+  "codePathLocal": "run_hyperparameter_sweep.py",
+  "email": "elytuyor@gmail.com",
+  "root": "D:\\PINESCRIPT",
+  "host": "L4NT-ASI-284937",
+  "executable": "C:\\Users\\ElesitoTuyor\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA RTX 2000 Ada Generation Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "204840366080",
+      "used": "21561991168"
+    }
+  },
+  "memory": {
+    "total": "16405352448"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA RTX 2000 Ada Generation Laptop GPU",
+      "memoryTotal": "8585740288",
+      "cudaCores": 3072,
+      "architecture": "Ada",
+      "uuid": "GPU-b0c5a24b-20ce-52b6-2368-f6898addb0af"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "ii5u62vgbvnxjgg2gmyz39qnq5ncsbo4"
+}

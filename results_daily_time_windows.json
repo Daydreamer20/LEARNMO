@@ -1,0 +1,174 @@
+{
+  "config": {
+    "initial_balance": 1000,
+    "leverage": 10,
+    "stop_loss_pct": 0.02,
+    "take_profit_pct": 0.04,
+    "position_size_pct": 0.1
+  },
+  "data_file": "BYBIT_SIRENUSDT.P, 5_e106e.csv",
+  "timestamp": "2025-08-11T09:49:24.782235",
+  "results": [
+    {
+      "chunk_id": 0,
+      "start_time": "2025-08-07 08:50:00",
+      "end_time": "2025-08-08 08:45:00",
+      "rows": 288,
+      "trades": 9,
+      "winning_trades": 5,
+      "win_rate": 0.5555555555555556,
+      "total_pnl": 102.49556524539797,
+      "final_balance": 1102.4955652453982,
+      "return_pct": 10.249556524539821,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-07 16:35:00",
+          "exit_time": "2025-08-07 19:50:00",
+          "side": "LONG",
+          "entry_price": 0.07498,
+          "exit_price": 0.07878,
+          "quantity": 13336.889837289944,
+          "pnl": 50.68018138170176,
+          "pnl_pct": 0.5068018138170176,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-07 23:15:00",
+          "exit_time": "2025-08-08 00:05:00",
+          "side": "LONG",
+          "entry_price": 0.07704,
+          "exit_price": 0.08175,
+          "quantity": 13638.11242707297,
+          "pnl": 64.23550953151377,
+          "pnl_pct": 0.6113707165109041,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-08 00:10:00",
+          "exit_time": "2025-08-08 00:20:00",
+          "side": "LONG",
+          "entry_price": 0.07968,
+          "exit_price": 0.07655,
+          "quantity": 13992.415799613647,
+          "pnl": -43.79626145279063,
+          "pnl_pct": -0.39282128514056147,
+          "exit_reason": "SL"
+        },
+        {
+          "entry_time": "2025-08-08 00:30:00",
+          "exit_time": "2025-08-08 01:00:00",
+          "side": "LONG",
+          "entry_price": 0.07873,
+          "exit_price": 0.08236,
+          "quantity": 13604.971795509018,
+          "pnl": 49.38604761769785,
+          "pnl_pct": 0.46106947796265824,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-08 01:10:00",
+          "exit_time": "2025-08-08 01:35:00",
+          "side": "LONG",
+          "entry_price": 0.08294,
+          "exit_price": 0.08066,
+          "quantity": 13509.832132603362,
+          "pnl": -30.802417262335723,
+          "pnl_pct": -0.2748975162768271,
+          "exit_reason": "SL"
+        },
+        {
+          "entry_time": "2025-08-08 01:45:00",
+          "exit_time": "2025-08-08 02:10:00",
+          "side": "LONG",
+          "entry_price": 0.08414,
+          "exit_price": 0.08857,
+          "quantity": 12951.070356736238,
+          "pnl": 57.3732416803414,
+          "pnl_pct": 0.5265034466365568,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-08 02:15:00",
+          "exit_time": "2025-08-08 02:50:00",
+          "side": "LONG",
+          "entry_price": 0.0897,
+          "exit_price": 0.09364,
+          "quantity": 12787.918634293517,
+          "pnl": 50.38439941911645,
+          "pnl_pct": 0.43924191750278696,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-08 02:55:00",
+          "exit_time": "2025-08-08 03:15:00",
+          "side": "LONG",
+          "entry_price": 0.09446,
+          "exit_price": 0.09118,
+          "quantity": 12676.907695482163,
+          "pnl": -41.58025724118156,
+          "pnl_pct": -0.34723692568282927,
+          "exit_reason": "SL"
+        },
+        {
+          "entry_time": "2025-08-08 05:55:00",
+          "exit_time": "2025-08-08 07:15:00",
+          "side": "SHORT",
+          "entry_price": 0.08271,
+          "exit_price": 0.08653,
+          "quantity": 13975.099065095677,
+          "pnl": -53.384878428665345,
+          "pnl_pct": -0.4618546729536923,
+          "exit_reason": "SL"
+        }
+      ]
+    },
+    {
+      "chunk_id": 1,
+      "start_time": "2025-08-08 08:50:00",
+      "end_time": "2025-08-08 09:45:00",
+      "rows": 12,
+      "trades": 2,
+      "winning_trades": 1,
+      "win_rate": 0.5,
+      "total_pnl": 30.732366101833353,
+      "final_balance": 1030.7323661018333,
+      "return_pct": 3.073236610183335,
+      "trade_details": [
+        {
+          "entry_time": "2025-08-08 08:50:00",
+          "exit_time": "2025-08-08 09:00:00",
+          "side": "LONG",
+          "entry_price": 0.09078,
+          "exit_price": 0.09582,
+          "quantity": 11015.642211940956,
+          "pnl": 55.51883674818245,
+          "pnl_pct": 0.5551883674818245,
+          "exit_reason": "TP"
+        },
+        {
+          "entry_time": "2025-08-08 09:05:00",
+          "exit_time": "2025-08-08 09:30:00",
+          "side": "LONG",
+          "entry_price": 0.09326,
+          "exit_price": 0.09107,
+          "quantity": 11318.023126186816,
+          "pnl": -24.7864706463491,
+          "pnl_pct": -0.23482736435770937,
+          "exit_reason": "SL"
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "total_chunks": 2,
+    "profitable_chunks": 2,
+    "total_trades": 11,
+    "overall_win_rate": 0.5454545454545454,
+    "total_pnl": 133.22793134723133,
+    "avg_chunk_return": 6.661396567361578,
+    "best_chunk_return": 10.249556524539821,
+    "worst_chunk_return": 3.073236610183335,
+    "return_std": 3.5881599571782434,
+    "win_rate_consistency": 0.02777777777777779
+  }
+}

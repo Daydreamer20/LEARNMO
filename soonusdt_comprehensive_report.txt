@@ -1,0 +1,28 @@
+SOONUSDT COMPREHENSIVE ANALYSIS REPORT
+==================================================
+
+PERFORMANCE COMPARISON:
+            Strategy  Chunks Profitable Rate  Total Trades Trades/Chunk Win Rate Total PnL Avg Return Best Chunk Worst Chunk Volatility Risk-Adj Return
+12 Hour Time Windows       3           33.3%            59         19.7    37.3%    $48.04      1.60%     14.16%      -8.96%      9.54%            0.17
+ 6 Hour Time Windows       3           33.3%            59         19.7    37.3%    $48.04      1.60%     14.16%      -8.96%      9.54%            0.17
+ Bos + Choch Signals      16            6.2%            14          0.9     7.1%  $-260.12     -1.86%      3.28%      -4.28%      1.61%           -1.15
+    Bos Signals Only      16            6.2%            14          0.9     7.1%  $-260.12     -1.86%      3.28%      -4.28%      1.61%           -1.15
+   Fixed 150 Candles       7           42.9%            57          8.1    35.1%   $-16.84     -0.24%      9.68%     -15.46%      8.48%           -0.03
+    Fixed 75 Candles      14           35.7%            56          4.0    33.9%   $-66.24     -0.51%      9.22%     -11.32%      5.63%           -0.09
+    Volatility Based      31           19.4%            56          1.8    33.9%  $-123.96     -0.73%     10.36%     -13.60%      6.29%           -0.12
+
+SIGNAL PERFORMANCE:
+Bullish BOS: 197 trades, 39.6% win rate, $1.35 avg PnL
+Bearish BOS: 113 trades, 23.0% win rate, $-7.73 avg PnL
+Bearish CHOCH: 5 trades, 0.0% win rate, $-4.61 avg PnL
+
+KEY INSIGHTS:
+✅ 2 out of 7 strategies were profitable
+🏆 Best strategy: 12 Hour Time Windows with $48.04 profit
+📈 Best signal: Bullish BOS with 39.6% win rate
+📉 Worst signal: Bearish CHOCH with 0.0% win rate
+🐂 Bullish signals outperform bearish (39.6% vs 11.5%)
+⏰ Time-based chunking avg PnL: $48.04
+🎯 Signal-based chunking avg PnL: $-260.12
+📏 Fixed-size chunking avg PnL: $-41.54
+⚠️  High volatility strategies: 12 Hour Time Windows, 6 Hour Time Windows, Fixed 150 Candles

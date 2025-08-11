@@ -1,0 +1,13 @@
+{"time":"2025-08-11T10:11:55.2380449+08:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-11T10:11:56.3823947+08:00","level":"INFO","msg":"stream: created new stream","id":"xa28asoi"}
+{"time":"2025-08-11T10:11:56.3823947+08:00","level":"INFO","msg":"stream: started","id":"xa28asoi"}
+{"time":"2025-08-11T10:11:56.3823947+08:00","level":"INFO","msg":"handler: started","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:11:56.3823947+08:00","level":"INFO","msg":"sender: started","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:11:56.3823947+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:12:07.9875204+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-xa28asoi-chunk_performance","runtime_seconds":6.8948853},{"desc":"uploading artifact run-xa28asoi-trades_detail","runtime_seconds":5.1927084},{"desc":"uploading artifact run-xa28asoi-chunk_performance","runtime_seconds":4.8821282},{"desc":"uploading artifact run-xa28asoi-trades_detail","runtime_seconds":3.9859887},{"desc":"uploading artifact run-xa28asoi-chunk_performance","runtime_seconds":3.6572588},{"desc":"uploading artifact run-xa28asoi-trades_detail","runtime_seconds":2.6975612},{"desc":"uploading artifact run-xa28asoi-chunk_performance","runtime_seconds":2.3530437},{"desc":"uploading artifact run-xa28asoi-trades_detail","runtime_seconds":1.339628},{"desc":"uploading artifact run-xa28asoi-signal_performance","runtime_seconds":1.0358038999999999,"subtasks":[{"desc":"signal_performance.table.json","runtime_seconds":0.1404567,"progress":"986B/986B"}]},{"desc":"uploading media\\table\\signal_performance_33_9fac30df272426a89d49.table.json","runtime_seconds":0.749369,"progress":"310B/310B"}],"total_operations":13}}
+{"time":"2025-08-11T10:12:16.2166886+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-11T10:12:16.5312402+08:00","level":"INFO","msg":"stream: closing","id":"xa28asoi"}
+{"time":"2025-08-11T10:12:16.5312402+08:00","level":"INFO","msg":"handler: closed","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:12:16.5312402+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:12:16.5312402+08:00","level":"INFO","msg":"sender: closed","stream_id":"xa28asoi"}
+{"time":"2025-08-11T10:12:16.5312402+08:00","level":"INFO","msg":"stream: closed","id":"xa28asoi"}

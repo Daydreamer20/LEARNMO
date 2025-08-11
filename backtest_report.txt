@@ -1,0 +1,789 @@
+
+        ═══════════════════════════════════════════════════════════════
+                            BACKTEST RESULTS REPORT
+        ═══════════════════════════════════════════════════════════════
+        
+        📊 PERFORMANCE SUMMARY
+        ───────────────────────────────────────────────────────────────
+        Total Trades:           63
+        Winning Trades:         31 (49.2%)
+        Losing Trades:          32
+        
+        💰 PROFIT & LOSS
+        ───────────────────────────────────────────────────────────────
+        Total PnL:              $-0.12
+        Total Return:           -0.01%
+        Best Trade:             $0.05
+        Worst Trade:            $-0.06
+        
+        📈 RISK METRICS
+        ───────────────────────────────────────────────────────────────
+        Max Drawdown:           0.02%
+        Sharpe Ratio:           -1.17
+        Profit Factor:          0.83
+        
+        ⏱️  TIMING
+        ───────────────────────────────────────────────────────────────
+        Avg Trade Duration:     0 days 00:05:47.619047619
+        
+        ═══════════════════════════════════════════════════════════════
+        
+
+DETAILED TRADE LIST
+================================================================================
+
+Trade 1:
+  Time: 2025-08-07 13:30:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06855
+  Exit: $0.06952
+  PnL: $-0.03 (-1.42%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:43.4, EMA:Bear, Vol:1.0x
+
+Trade 2:
+  Time: 2025-08-07 13:35:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06952
+  Exit: $0.06933
+  PnL: $0.01 (0.27%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:52.4, EMA:Bear, Vol:1.0x
+
+Trade 3:
+  Time: 2025-08-07 13:40:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06933
+  Exit: $0.06897
+  PnL: $0.01 (0.52%)
+  Duration: 0 days 00:10:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:48.2, EMA:Bear, Vol:1.0x
+
+Trade 4:
+  Time: 2025-08-07 13:50:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06897
+  Exit: $0.06879
+  PnL: $0.01 (0.26%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:41.4, EMA:Bear, Vol:1.0x
+
+Trade 5:
+  Time: 2025-08-07 13:55:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06879
+  Exit: $0.06849
+  PnL: $0.01 (0.44%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:49.4, EMA:Bear, Vol:1.0x
+
+Trade 6:
+  Time: 2025-08-07 14:10:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06901
+  Exit: $0.06988
+  PnL: $-0.03 (-1.26%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:43.4, EMA:Bear, Vol:1.0x
+
+Trade 7:
+  Time: 2025-08-07 14:45:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07041
+  Exit: $0.07000
+  PnL: $-0.01 (-0.58%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:58.1, EMA:Bull, Vol:1.0x
+
+Trade 8:
+  Time: 2025-08-07 14:50:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07000
+  Exit: $0.06863
+  PnL: $-0.04 (-1.96%)
+  Duration: 0 days 00:10:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:55.9, EMA:Bull, Vol:1.0x
+
+Trade 9:
+  Time: 2025-08-07 15:00:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.06863
+  Exit: $0.06897
+  PnL: $0.01 (0.50%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:47.6, EMA:Bull, Vol:1.0x
+
+Trade 10:
+  Time: 2025-08-07 15:10:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.06873
+  Exit: $0.06950
+  PnL: $-0.02 (-1.12%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:51.7, EMA:Bear, Vol:1.0x
+
+Trade 11:
+  Time: 2025-08-07 15:25:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07025
+  Exit: $0.07114
+  PnL: $0.03 (1.27%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:52.2, EMA:Bull, Vol:1.0x
+
+Trade 12:
+  Time: 2025-08-07 15:40:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07148
+  Exit: $0.07177
+  PnL: $0.01 (0.41%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:59.7, EMA:Bull, Vol:1.0x
+
+Trade 13:
+  Time: 2025-08-07 15:55:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07182
+  Exit: $0.07170
+  PnL: $-0.00 (-0.17%)
+  Duration: 0 days 00:10:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:57.3, EMA:Bull, Vol:1.0x
+
+Trade 14:
+  Time: 2025-08-07 16:05:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07170
+  Exit: $0.07142
+  PnL: $-0.01 (-0.39%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:58.5, EMA:Bull, Vol:1.0x
+
+Trade 15:
+  Time: 2025-08-07 16:25:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07385
+  Exit: $0.07443
+  PnL: $-0.02 (-0.79%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:73.2, EMA:Bull, Vol:1.0x
+
+Trade 16:
+  Time: 2025-08-07 16:30:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07443
+  Exit: $0.07498
+  PnL: $-0.01 (-0.74%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:70.8, EMA:Bull, Vol:1.0x
+
+Trade 17:
+  Time: 2025-08-07 16:35:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07498
+  Exit: $0.07405
+  PnL: $0.02 (1.24%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:77.6, EMA:Bull, Vol:1.0x
+
+Trade 18:
+  Time: 2025-08-07 17:45:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07650
+  Exit: $0.07634
+  PnL: $-0.00 (-0.21%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:57.6, EMA:Bull, Vol:1.0x
+
+Trade 19:
+  Time: 2025-08-07 19:10:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07456
+  Exit: $0.07501
+  PnL: $0.01 (0.60%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:31.7, EMA:Bull, Vol:1.0x
+
+Trade 20:
+  Time: 2025-08-07 19:15:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07501
+  Exit: $0.07613
+  PnL: $-0.03 (-1.49%)
+  Duration: 0 days 00:15:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:42.9, EMA:Bear, Vol:1.0x
+
+Trade 21:
+  Time: 2025-08-07 19:30:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07613
+  Exit: $0.07722
+  PnL: $-0.03 (-1.43%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:54.7, EMA:Bear, Vol:1.0x
+
+Trade 22:
+  Time: 2025-08-07 19:40:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07752
+  Exit: $0.07739
+  PnL: $-0.00 (-0.17%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:58.1, EMA:Bull, Vol:1.0x
+
+Trade 23:
+  Time: 2025-08-07 19:45:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07739
+  Exit: $0.07878
+  PnL: $0.04 (1.80%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:54.8, EMA:Bull, Vol:1.0x
+
+Trade 24:
+  Time: 2025-08-07 19:55:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07772
+  Exit: $0.07628
+  PnL: $-0.04 (-1.85%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:57.8, EMA:Bull, Vol:1.0x
+
+Trade 25:
+  Time: 2025-08-07 20:00:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07628
+  Exit: $0.07693
+  PnL: $0.02 (0.85%)
+  Duration: 0 days 00:10:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:51.1, EMA:Bull, Vol:1.0x
+
+Trade 26:
+  Time: 2025-08-07 20:40:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07558
+  Exit: $0.07462
+  PnL: $0.03 (1.27%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:46.7, EMA:Bear, Vol:1.0x
+
+Trade 27:
+  Time: 2025-08-07 22:25:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07529
+  Exit: $0.07551
+  PnL: $0.01 (0.29%)
+  Duration: 0 days 00:10:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:58.3, EMA:Bull, Vol:1.0x
+
+Trade 28:
+  Time: 2025-08-07 22:35:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07551
+  Exit: $0.07539
+  PnL: $-0.00 (-0.16%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:47.8, EMA:Bull, Vol:1.0x
+
+Trade 29:
+  Time: 2025-08-07 22:40:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07539
+  Exit: $0.07523
+  PnL: $-0.00 (-0.21%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:50.5, EMA:Bull, Vol:1.0x
+
+Trade 30:
+  Time: 2025-08-07 23:00:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07622
+  Exit: $0.07613
+  PnL: $-0.00 (-0.12%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:58.3, EMA:Bull, Vol:1.0x
+
+Trade 31:
+  Time: 2025-08-07 23:05:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07613
+  Exit: $0.07633
+  PnL: $0.01 (0.26%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:57.6, EMA:Bull, Vol:1.0x
+
+Trade 32:
+  Time: 2025-08-07 23:10:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07633
+  Exit: $0.07704
+  PnL: $0.02 (0.93%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:49.4, EMA:Bull, Vol:1.0x
+
+Trade 33:
+  Time: 2025-08-08 00:00:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.07933
+  Exit: $0.08175
+  PnL: $-0.06 (-3.05%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:85.5, EMA:Bull, Vol:1.0x
+
+Trade 34:
+  Time: 2025-08-08 00:05:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08175
+  Exit: $0.07968
+  PnL: $0.05 (2.53%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:90.5, EMA:Bull, Vol:1.0x
+
+Trade 35:
+  Time: 2025-08-08 00:20:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.07655
+  Exit: $0.07699
+  PnL: $0.01 (0.57%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:50.8, EMA:Bull, Vol:1.0x
+
+Trade 36:
+  Time: 2025-08-08 00:45:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08015
+  Exit: $0.08032
+  PnL: $0.00 (0.21%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:58.5, EMA:Bull, Vol:1.0x
+
+Trade 37:
+  Time: 2025-08-08 00:50:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08032
+  Exit: $0.08120
+  PnL: $0.02 (1.10%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:58.9, EMA:Bull, Vol:1.0x
+
+Trade 38:
+  Time: 2025-08-08 00:55:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08120
+  Exit: $0.08236
+  PnL: $0.03 (1.43%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:60.0, EMA:Bull, Vol:1.0x
+
+Trade 39:
+  Time: 2025-08-08 01:10:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08294
+  Exit: $0.08187
+  PnL: $-0.03 (-1.29%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:60.0, EMA:Bull, Vol:1.0x
+
+Trade 40:
+  Time: 2025-08-08 01:15:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08187
+  Exit: $0.08258
+  PnL: $0.02 (0.87%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:50.4, EMA:Bull, Vol:1.0x
+
+Trade 41:
+  Time: 2025-08-08 01:20:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08258
+  Exit: $0.08141
+  PnL: $-0.03 (-1.42%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:59.4, EMA:Bull, Vol:1.0x
+
+Trade 42:
+  Time: 2025-08-08 01:25:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08141
+  Exit: $0.08066
+  PnL: $-0.02 (-0.92%)
+  Duration: 0 days 00:10:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:52.5, EMA:Bull, Vol:1.0x
+
+Trade 43:
+  Time: 2025-08-08 02:10:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08857
+  Exit: $0.08970
+  PnL: $-0.03 (-1.28%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:70.2, EMA:Bull, Vol:1.0x
+
+Trade 44:
+  Time: 2025-08-08 02:15:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08970
+  Exit: $0.09079
+  PnL: $-0.02 (-1.22%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:76.1, EMA:Bull, Vol:1.0x
+
+Trade 45:
+  Time: 2025-08-08 02:20:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.09079
+  Exit: $0.09168
+  PnL: $-0.02 (-0.98%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:75.6, EMA:Bull, Vol:1.0x
+
+Trade 46:
+  Time: 2025-08-08 02:25:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.09168
+  Exit: $0.09100
+  PnL: $0.01 (0.74%)
+  Duration: 0 days 00:10:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:82.3, EMA:Bull, Vol:1.0x
+
+Trade 47:
+  Time: 2025-08-08 03:50:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08793
+  Exit: $0.08662
+  PnL: $0.03 (1.49%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:44.6, EMA:Bear, Vol:1.0x
+
+Trade 48:
+  Time: 2025-08-08 04:30:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08461
+  Exit: $0.08473
+  PnL: $-0.00 (-0.14%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:42.4, EMA:Bear, Vol:1.0x
+
+Trade 49:
+  Time: 2025-08-08 04:50:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08488
+  Exit: $0.08665
+  PnL: $-0.04 (-2.09%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:40.9, EMA:Bear, Vol:1.0x
+
+Trade 50:
+  Time: 2025-08-08 04:55:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08665
+  Exit: $0.08678
+  PnL: $-0.00 (-0.15%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:47.6, EMA:Bear, Vol:1.0x
+
+Trade 51:
+  Time: 2025-08-08 05:00:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08678
+  Exit: $0.08764
+  PnL: $-0.02 (-0.99%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:45.0, EMA:Bear, Vol:1.0x
+
+Trade 52:
+  Time: 2025-08-08 05:05:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08764
+  Exit: $0.08689
+  PnL: $0.02 (0.86%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:54.6, EMA:Bear, Vol:1.0x
+
+Trade 53:
+  Time: 2025-08-08 05:45:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08478
+  Exit: $0.08446
+  PnL: $0.01 (0.38%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:50.2, EMA:Bear, Vol:1.0x
+
+Trade 54:
+  Time: 2025-08-08 05:50:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08446
+  Exit: $0.08271
+  PnL: $0.04 (2.07%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:44.9, EMA:Bear, Vol:1.0x
+
+Trade 55:
+  Time: 2025-08-08 06:00:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08257
+  Exit: $0.08207
+  PnL: $0.01 (0.61%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:40.0, EMA:Bear, Vol:1.0x
+
+Trade 56:
+  Time: 2025-08-08 06:05:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08207
+  Exit: $0.08364
+  PnL: $0.04 (1.91%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:27.8, EMA:Bear, Vol:1.0x
+
+Trade 57:
+  Time: 2025-08-08 07:05:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08225
+  Exit: $0.08398
+  PnL: $-0.04 (-2.10%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:46.9, EMA:Bear, Vol:1.0x
+
+Trade 58:
+  Time: 2025-08-08 07:15:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08653
+  Exit: $0.08705
+  PnL: $-0.01 (-0.60%)
+  Duration: 0 days 00:10:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:70.0, EMA:Bear, Vol:1.0x
+
+Trade 59:
+  Time: 2025-08-08 07:25:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.08705
+  Exit: $0.08677
+  PnL: $0.01 (0.32%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:75.9, EMA:Bull, Vol:1.0x
+
+Trade 60:
+  Time: 2025-08-08 07:45:00
+  Symbol: SIRENUSDT
+  Side: BUY
+  Entry: $0.08398
+  Exit: $0.08496
+  PnL: $0.02 (1.17%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:52.0, EMA:Bull, Vol:1.0x
+
+Trade 61:
+  Time: 2025-08-08 08:50:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.09078
+  Exit: $0.09314
+  PnL: $-0.05 (-2.60%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:70.4, EMA:Bull, Vol:1.0x
+
+Trade 62:
+  Time: 2025-08-08 08:55:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.09314
+  Exit: $0.09582
+  PnL: $-0.06 (-2.88%)
+  Duration: 0 days 00:05:00
+  Exit Reason: SL
+  Confidence: 85%
+  Reasoning: RSI:90.7, EMA:Bull, Vol:1.0x
+
+Trade 63:
+  Time: 2025-08-08 09:00:00
+  Symbol: SIRENUSDT
+  Side: SELL
+  Entry: $0.09582
+  Exit: $0.09326
+  PnL: $0.05 (2.67%)
+  Duration: 0 days 00:05:00
+  Exit Reason: TP
+  Confidence: 85%
+  Reasoning: RSI:92.0, EMA:Bull, Vol:1.0x

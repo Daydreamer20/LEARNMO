@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            3ncc9q1yzmf4zvnbng3ttqdlsw3q8vgr:
+                args:
+                    - --sweep-type
+                    - basic
+                    - --count
+                    - "30"
+                codePath: run_hyperparameter_sweep.py
+                codePathLocal: run_hyperparameter_sweep.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "12.7"
+                disk:
+                    /:
+                        total: "204840366080"
+                        used: "21563633664"
+                email: elytuyor@gmail.com
+                executable: C:\Users\ElesitoTuyor\AppData\Local\Programs\Python\Python310\python.exe
+                gpu: NVIDIA RTX 2000 Ada Generation Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA RTX 2000 Ada Generation Laptop GPU
+                      uuid: GPU-b0c5a24b-20ce-52b6-2368-f6898addb0af
+                host: L4NT-ASI-284937
+                memory:
+                    total: "16405352448"
+                os: Windows-10-10.0.26100-SP0
+                program: D:\PINESCRIPT\run_hyperparameter_sweep.py
+                python: CPython 3.10.9
+                root: D:\PINESCRIPT
+                startedAt: "2025-08-11T09:03:09.662372Z"
+                writerId: 3ncc9q1yzmf4zvnbng3ttqdlsw3q8vgr
+        m: []
+        python_version: 3.10.9
+        t:
+            "3":
+                - 2
+                - 14
+            "4": 3.10.9
+            "5": 0.21.0
+            "8":
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
+chunk_size:
+    value: 75
+chunking_method:
+    value: rows
+leverage:
+    value: 20
+position_size_pct:
+    value: 0.061784861825630304
+stop_loss_pct:
+    value: 0.010661918859194522
+take_profit_pct:
+    value: 0.06862991964075404
+time_window_idx:
+    value: 1

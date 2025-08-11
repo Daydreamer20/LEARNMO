@@ -1,0 +1,19 @@
+{
+  "rsi_period": 10.0,
+  "rsi_oversold": 20.0,
+  "rsi_overbought": 70.0,
+  "ema_fast": 5.0,
+  "ema_slow": 18.0,
+  "bb_period": 15.0,
+  "bb_std": 2.0,
+  "confidence_threshold": 75.0,
+  "total_trades": 0.0,
+  "win_rate": 0.0,
+  "total_return": 0.0,
+  "max_drawdown": 0.0,
+  "sharpe_ratio": 0.0,
+  "profit_factor": 0.0,
+  "avg_trade_duration_hours": 0.0,
+  "best_trade": 0.0,
+  "worst_trade": 0.0
+}

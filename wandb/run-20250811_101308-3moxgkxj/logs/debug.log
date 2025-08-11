@@ -1,0 +1,29 @@
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_setup.py:_flush():80] Configure stats pid to 3308
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_setup.py:_flush():80] Loading settings from C:\Users\ElesitoTuyor\.config\wandb\settings
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_setup.py:_flush():80] Loading settings from D:\PINESCRIPT\wandb\settings
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_init.py:setup_run_log_directory():703] Logging user logs to D:\PINESCRIPT\wandb\run-20250811_101308-3moxgkxj\logs\debug.log
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to D:\PINESCRIPT\wandb\run-20250811_101308-3moxgkxj\logs\debug-internal.log
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():830] calling init triggers
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():835] wandb.init called with sweep_config: {'chunk_size': 50, 'chunking_method': 'time', 'leverage': 20, 'position_size_pct': 0.1512528150505325, 'stop_loss_pct': 0.022156062678199948, 'take_profit_pct': 0.07339393797339704, 'time_window_idx': 0}
+config: {'_wandb': {}}
+2025-08-11 10:13:08,932 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():871] starting backend
+2025-08-11 10:13:09,148 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():874] sending inform_init request
+2025-08-11 10:13:09,151 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():882] backend started and connected
+2025-08-11 10:13:09,151 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_config_callback():1363] config_cb None None {'chunk_size': 50, 'chunking_method': 'time', 'leverage': 20, 'position_size_pct': 0.1512528150505325, 'stop_loss_pct': 0.022156062678199948, 'take_profit_pct': 0.07339393797339704, 'time_window_idx': 0}
+2025-08-11 10:13:09,152 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():953] updated telemetry
+2025-08-11 10:13:09,152 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-08-11 10:13:10,624 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():1029] starting run threads in backend
+2025-08-11 10:13:11,016 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_console_start():2458] atexit reg
+2025-08-11 10:13:11,016 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-08-11 10:13:11,016 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-08-11 10:13:11,016 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-08-11 10:13:11,017 INFO    Thread-18 (_run_job):3308 [wandb_init.py:init():1075] run started, returning control to user process
+2025-08-11 10:13:11,100 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_finish():2224] finishing run elytuyor-department-of-education/trading-bot-basic-optimization/3moxgkxj
+2025-08-11 10:13:11,100 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_atexit_cleanup():2423] got exitcode: 0
+2025-08-11 10:13:11,100 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_restore():2405] restore
+2025-08-11 10:13:11,100 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_restore():2411] restore done
+2025-08-11 10:13:12,683 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_footer_history_summary_info():3903] rendering history
+2025-08-11 10:13:12,684 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_footer_history_summary_info():3935] rendering summary
+2025-08-11 10:13:12,684 INFO    Thread-18 (_run_job):3308 [wandb_run.py:_footer_sync_info():3864] logging synced files

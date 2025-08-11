@@ -1,0 +1,40 @@
+Running strategy: Fixed_75_Candles
+Running backtest on 14 chunks using rows method...
+Processed 10/14 chunks
+Running strategy: Fixed_150_Candles
+Running backtest on 7 chunks using rows method...
+Running strategy: Time_6H_Windows
+Running backtest on 3 chunks using time method...
+Running strategy: Time_12H_Windows
+Running backtest on 3 chunks using time method...
+Running strategy: BOS_Signals_Only
+Running backtest on 16 chunks using signals method...
+Processed 10/16 chunks
+Running strategy: Volatility_Based
+Running backtest on 31 chunks using volatility method...
+Processed 10/31 chunks
+Processed 20/31 chunks
+Processed 30/31 chunks
+
+📊 COMPREHENSIVE RESULTS SUMMARY:
+================================================================================
+Strategy                  PnL          Win Rate   Trades   Chunks   Sharpe
+--------------------------------------------------------------------------------
+Fixed_75_Candles          $-66.24      33.9%     56       14       -0.09
+Fixed_150_Candles         $-16.84      35.1%     57       7        -0.03
+Time_6H_Windows           $48.04       37.3%     59       3        0.17
+Time_12H_Windows          $48.04       37.3%     59       3        0.17
+BOS_Signals_Only          $-260.12     7.1%      14       16       -1.15
+Volatility_Based          $-123.96     33.9%     56       31       -0.12
+--------------------------------------------------------------------------------
+🏆 BEST STRATEGY: Time_6H_Windows with $48.04 profit
+
+🎯 SIGNAL PERFORMANCE SUMMARY:
+Signal          Trades   Win Rate   Avg PnL    Total PnL
+-----------------------------------------------------------------
+Bullish BOS     188      41.0%     $2.26      $423.99
+Bearish CHOCH   5        0.0%      $-4.61     $-23.07
+Bearish BOS     108      24.1%     $-7.15     $-772.00
+
+🔗 View complete results at:
+   https://wandb.ai/elytuyor-department-of-education/soonusdt-comprehensive-analysis

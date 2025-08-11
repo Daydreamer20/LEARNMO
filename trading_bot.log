@@ -1,0 +1,219 @@
+2025-08-08 17:16:56,156 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:16:56,166 - trading_bot - INFO - Scalping bot initialized
+2025-08-08 17:16:56,167 - trading_bot - INFO - Starting scalping bot...
+2025-08-08 17:16:56,786 - trading_bot - INFO - Account balance: $26.30 USDT
+2025-08-08 17:17:14,060 - trading_bot - INFO - All systems validated successfully
+2025-08-08 17:17:14,901 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:14,901 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:17:15,189 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:15,191 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:17:15,350 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:15,350 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:17:15,587 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:15,587 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:17:15,779 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:15,779 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:17:16,200 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:16,200 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:17:16,439 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:16,439 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:17:16,742 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:16,742 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:17:27,093 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:27,096 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:17:27,399 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:27,399 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:17:27,648 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:27,648 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:17:27,954 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:27,954 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:17:28,231 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:28,231 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:17:28,533 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:28,535 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:17:28,932 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:28,932 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:17:29,183 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:29,183 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:17:39,432 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:39,432 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:17:39,694 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:39,694 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:17:39,949 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:39,949 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:17:40,161 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:40,161 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:17:40,428 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:40,429 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:17:40,682 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:40,690 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:17:40,935 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:40,937 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:17:41,164 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:41,178 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:17:51,562 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:51,562 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:17:51,838 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:51,838 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:17:52,177 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:52,178 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:17:52,479 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:52,479 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:17:52,791 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:52,791 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:17:53,094 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:53,094 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:17:53,376 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:53,376 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:17:53,612 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:17:53,624 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:18:03,908 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:03,908 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:18:04,167 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:04,167 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:18:04,471 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:04,471 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:18:04,695 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:04,695 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:18:04,955 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:04,955 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:18:05,178 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:05,178 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:18:05,431 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:05,431 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:18:05,673 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:05,673 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:18:15,933 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:15,934 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:18:16,153 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:16,155 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:18:16,412 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:16,412 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:18:16,676 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:16,676 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:18:16,926 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:16,929 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:18:17,179 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:17,179 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:18:17,429 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:17,429 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:18:17,658 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:17,660 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:18:27,905 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:27,905 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:18:28,138 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:28,139 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:18:28,403 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:28,405 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:18:28,654 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:28,655 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:18:28,906 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:28,908 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:18:29,122 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:29,122 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:18:29,360 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:29,362 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:18:29,589 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:29,604 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:18:39,845 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:39,845 - trading_bot - WARNING - No market data for SIRENUSDT
+2025-08-08 17:18:40,109 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:40,109 - trading_bot - WARNING - No market data for BTCUSDT
+2025-08-08 17:18:40,351 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:40,351 - trading_bot - WARNING - No market data for ETHUSDT
+2025-08-08 17:18:40,584 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:40,585 - trading_bot - WARNING - No market data for SOLUSDT
+2025-08-08 17:18:40,841 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:40,841 - trading_bot - WARNING - No market data for ADAUSDT
+2025-08-08 17:18:41,093 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:41,093 - trading_bot - WARNING - No market data for DOTUSDT
+2025-08-08 17:18:41,339 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:41,339 - trading_bot - WARNING - No market data for LINKUSDT
+2025-08-08 17:18:41,587 - market_data - ERROR - Error getting kline data: Python int too large to convert to C long
+2025-08-08 17:18:41,587 - trading_bot - WARNING - No market data for LTCUSDT
+2025-08-08 17:18:44,518 - trading_bot - INFO - Stopping trading bot...
+2025-08-08 17:20:18,046 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:20:18,051 - trading_bot - INFO - Scalping bot initialized
+2025-08-08 17:20:18,051 - trading_bot - INFO - Starting scalping bot...
+2025-08-08 17:20:18,497 - trading_bot - INFO - Account balance: $26.30 USDT
+2025-08-08 17:20:41,250 - trading_bot - ERROR - Ollama connection failed
+2025-08-08 17:20:41,251 - trading_bot - INFO - Stopping trading bot...
+2025-08-08 17:22:40,383 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:22:40,388 - trading_bot - INFO - Scalping bot initialized
+2025-08-08 17:22:40,388 - trading_bot - INFO - Starting scalping bot...
+2025-08-08 17:22:40,948 - trading_bot - INFO - Account balance: $26.30 USDT
+2025-08-08 17:23:43,044 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:23:43,053 - trading_bot - WARNING - Ollama connection issue - will retry during trading
+2025-08-08 17:23:43,054 - trading_bot - INFO - All systems validated successfully
+2025-08-08 17:23:44,333 - trading_bot - INFO - SIRENUSDT: Low volume: 0.18x average
+2025-08-08 17:23:45,432 - trading_bot - INFO - BTCUSDT: Low volume: 0.18x average
+2025-08-08 17:23:46,299 - trading_bot - INFO - ETHUSDT: Low volume: 0.41x average
+2025-08-08 17:23:47,186 - trading_bot - INFO - SOLUSDT: Low volume: 0.37x average
+2025-08-08 17:23:48,016 - trading_bot - INFO - ADAUSDT: Weak trend: 0.019%
+2025-08-08 17:23:48,883 - trading_bot - INFO - DOTUSDT: Low volume: 0.47x average
+2025-08-08 17:23:49,749 - trading_bot - INFO - LINKUSDT: Low volume: 0.25x average
+2025-08-08 17:23:51,069 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645030633],server_timestamp[1754645024366],recv_window[60000] (ErrCode: 10002). Added 2.5 seconds to recv_window. 2 retries remain.
+2025-08-08 17:23:54,249 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645034081],server_timestamp[1754645027588],recv_window[62500] (ErrCode: 10002). Added 2.5 seconds to recv_window. 1 retries remain.
+2025-08-08 17:23:57,434 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645037264],server_timestamp[1754645030769],recv_window[65000] (ErrCode: 10002). Added 2.5 seconds to recv_window. 0 retries remain.
+2025-08-08 17:25:03,321 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:25:14,469 - trading_bot - INFO - SIRENUSDT: Low volume: 0.12x average
+2025-08-08 17:25:15,327 - trading_bot - INFO - BTCUSDT: Low volume: 0.08x average
+2025-08-08 17:25:16,191 - trading_bot - INFO - ETHUSDT: Low volume: 0.18x average
+2025-08-08 17:25:17,071 - trading_bot - INFO - SOLUSDT: Low volume: 0.36x average
+2025-08-08 17:25:17,903 - trading_bot - INFO - ADAUSDT: Low volume: 0.03x average
+2025-08-08 17:25:18,805 - trading_bot - INFO - DOTUSDT: Low volume: 0.36x average
+2025-08-08 17:25:19,678 - trading_bot - INFO - LINKUSDT: Low volume: 0.09x average
+2025-08-08 17:25:20,735 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645120553],server_timestamp[1754645114053],recv_window[60000] (ErrCode: 10002). Added 2.5 seconds to recv_window. 2 retries remain.
+2025-08-08 17:25:23,968 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645123738],server_timestamp[1754645117233],recv_window[62500] (ErrCode: 10002). Added 2.5 seconds to recv_window. 1 retries remain.
+2025-08-08 17:25:27,133 - pybit._http_manager - ERROR - invalid request, please check your server timestamp or recv_window param. req_timestamp[1754645126972],server_timestamp[1754645120461],recv_window[65000] (ErrCode: 10002). Added 2.5 seconds to recv_window. 0 retries remain.
+2025-08-08 17:26:33,043 - trading_bot - INFO - Stopping trading bot...
+2025-08-08 17:30:58,352 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:30:58,354 - trading_bot - INFO - Scalping bot initialized
+2025-08-08 17:30:58,356 - trading_bot - INFO - Starting scalping bot...
+2025-08-08 17:30:58,961 - trading_bot - INFO - Account balance: $26.30 USDT
+2025-08-08 17:31:04,793 - trading_bot - WARNING - Ollama connection issue - will retry during trading
+2025-08-08 17:31:04,794 - trading_bot - INFO - All systems validated successfully
+2025-08-08 17:32:09,093 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:32:10,110 - trading_bot - INFO - BTCUSDT: Low volume: 0.01x average
+2025-08-08 17:32:10,976 - trading_bot - INFO - ETHUSDT: Weak trend: 0.032%
+2025-08-08 17:32:11,848 - trading_bot - INFO - SOLUSDT: Low volume: 0.05x average
+2025-08-08 17:32:12,914 - trading_bot - INFO - ADAUSDT: Low volume: 0.10x average
+2025-08-08 17:32:13,785 - trading_bot - INFO - DOTUSDT: Low volume: 0.02x average
+2025-08-08 17:32:14,603 - trading_bot - INFO - LINKUSDT: Weak trend: 0.086%
+2025-08-08 17:32:15,486 - trading_bot - INFO - LTCUSDT: Low volume: 0.00x average
+2025-08-08 17:33:05,249 - bybit_client - INFO - Time synced with Bybit. Offset: -7s
+2025-08-08 17:33:05,264 - trading_bot - INFO - Scalping bot initialized
+2025-08-08 17:33:05,265 - trading_bot - INFO - Starting scalping bot...
+2025-08-08 17:33:05,705 - trading_bot - INFO - Account balance: $26.30 USDT
+2025-08-08 17:33:15,242 - trading_bot - WARNING - Ollama connection issue - will retry during trading
+2025-08-08 17:33:15,243 - trading_bot - INFO - All systems validated successfully
+2025-08-08 17:34:19,272 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:34:20,561 - trading_bot - INFO - BTCUSDT: Weak trend: 0.007%
+2025-08-08 17:34:21,744 - trading_bot - INFO - ETHUSDT: Weak trend: 0.023%
+2025-08-08 17:34:22,629 - trading_bot - INFO - SOLUSDT: Low volume: 0.05x average
+2025-08-08 17:34:23,494 - trading_bot - INFO - ADAUSDT: Low volume: 0.09x average
+2025-08-08 17:34:24,392 - trading_bot - INFO - DOTUSDT: Low volume: 0.08x average
+2025-08-08 17:34:25,252 - trading_bot - INFO - LINKUSDT: Weak trend: 0.096%
+2025-08-08 17:34:26,166 - trading_bot - INFO - LTCUSDT: Low volume: 0.06x average
+2025-08-08 17:35:40,634 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:35:42,276 - trading_bot - INFO - BTCUSDT: Weak trend: 0.002%
+2025-08-08 17:35:43,150 - trading_bot - INFO - ETHUSDT: Weak trend: 0.015%
+2025-08-08 17:35:44,012 - trading_bot - INFO - SOLUSDT: Weak trend: 0.034%
+2025-08-08 17:35:44,895 - trading_bot - INFO - ADAUSDT: Weak trend: 0.089%
+2025-08-08 17:35:45,772 - trading_bot - INFO - DOTUSDT: Weak trend: 0.032%
+2025-08-08 17:35:46,804 - trading_bot - INFO - LINKUSDT: Weak trend: 0.070%
+2025-08-08 17:35:47,705 - trading_bot - INFO - LTCUSDT: Weak trend: 0.093%
+2025-08-08 17:37:02,312 - ollama_analyzer - ERROR - Ollama request timed out
+2025-08-08 17:37:03,472 - trading_bot - INFO - BTCUSDT: Weak trend: 0.006%
+2025-08-08 17:37:04,784 - trading_bot - INFO - ETHUSDT: Weak trend: 0.006%
+2025-08-08 17:37:05,667 - trading_bot - INFO - SOLUSDT: Weak trend: 0.034%
+2025-08-08 17:37:06,534 - trading_bot - INFO - ADAUSDT: Weak trend: 0.089%
+2025-08-08 17:37:07,651 - trading_bot - INFO - DOTUSDT: Weak trend: 0.019%
+2025-08-08 17:37:08,551 - trading_bot - INFO - LINKUSDT: Low volume: 0.02x average
+2025-08-08 17:37:09,468 - trading_bot - INFO - LTCUSDT: Low volume: 0.00x average
+2025-08-11 12:15:01,755 - __main__ - INFO - Running pre-flight checks...
+2025-08-11 12:15:02,225 - __main__ - ERROR - No internet connection. Please check your network.
+2025-08-11 14:18:38,673 - __main__ - INFO - Running pre-flight checks...
+2025-08-11 14:18:39,573 - __main__ - ERROR - No internet connection. Please check your network.
+2025-08-11 14:58:28,824 - __main__ - INFO - Running pre-flight checks...
+2025-08-11 14:58:29,408 - __main__ - ERROR - No internet connection. Please check your network.

@@ -1,0 +1,21 @@
+=== CHUNK ANALYSIS REPORT ===
+Generated: 2025-08-11 09:59:12
+Data file: BYBIT_SIRENUSDT.P, 5_e106e.csv
+
+OVERALL PERFORMANCE:
+  Total chunks: 4
+  Profitable chunks: 0 (0.0%)
+  Total trades: 3
+  Overall win rate: 0.0%
+  Total PnL: $-120.64
+  Average chunk return: -4.02%
+
+TOP PERFORMING CHUNKS:
+  #1: -2.32% return, 1 trades, 0.0% win rate
+  #2: -4.75% return, 1 trades, 0.0% win rate
+  #3: -5.00% return, 1 trades, 0.0% win rate
+
+WORST PERFORMING CHUNKS:
+  #1: -5.00% return, 1 trades, 0.0% win rate
+  #2: -4.75% return, 1 trades, 0.0% win rate
+  #3: -2.32% return, 1 trades, 0.0% win rate

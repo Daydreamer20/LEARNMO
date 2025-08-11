@@ -1,0 +1,63 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            r5r3peh2icagie96dhy62ddyhhfsnc4c:
+                codePath: test_wandb_quick.py
+                codePathLocal: test_wandb_quick.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "12.7"
+                disk:
+                    /:
+                        total: "204840366080"
+                        used: "21559267328"
+                email: elytuyor@gmail.com
+                executable: C:\Users\ElesitoTuyor\AppData\Local\Programs\Python\Python310\python.exe
+                gpu: NVIDIA RTX 2000 Ada Generation Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA RTX 2000 Ada Generation Laptop GPU
+                      uuid: GPU-b0c5a24b-20ce-52b6-2368-f6898addb0af
+                host: L4NT-ASI-284937
+                memory:
+                    total: "16405352448"
+                os: Windows-10-10.0.26100-SP0
+                program: D:\PINESCRIPT\test_wandb_quick.py
+                python: CPython 3.10.9
+                root: D:\PINESCRIPT
+                startedAt: "2025-08-11T02:11:04.777527Z"
+                writerId: r5r3peh2icagie96dhy62ddyhhfsnc4c
+        m: []
+        python_version: 3.10.9
+        t:
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+            "4": 3.10.9
+            "5": 0.21.0
+            "8":
+                - 3
+            "10":
+                - 20
+            "12": 0.21.0
+            "13": windows-amd64
+data_file:
+    value: BYBIT_SOONUSDT.P, 3_08827.csv
+strategies:
+    value:
+        - Time_6H_Test
+total_strategies:
+    value: 1
+trading_config:
+    value:
+        initial_balance: 1000
+        leverage: 10
+        position_size_pct: 0.1
+        stop_loss_pct: 0.015
+        take_profit_pct: 0.03

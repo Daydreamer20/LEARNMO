@@ -1,0 +1,16 @@
+wandb_version: 1
+
+chunk_size:
+  value: 50
+chunking_method:
+  value: time
+leverage:
+  value: 15
+position_size_pct:
+  value: 0.22120817006208976
+stop_loss_pct:
+  value: 0.02919951385794457
+take_profit_pct:
+  value: 0.03342016228588541
+time_window_idx:
+  value: 4
