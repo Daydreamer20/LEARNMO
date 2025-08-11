@@ -1,1 +1,1 @@
-web: python railway_trading_bot.py
+web: python railway_simple_bot.py

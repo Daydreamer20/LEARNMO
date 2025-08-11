@@ -1,24 +1,18 @@
 # Core dependencies for Railway trading bot
-asyncio-mqtt==0.16.1
-websockets==12.0
-pandas==2.1.4
-numpy==1.24.3
-requests==2.31.0
-aiohttp==3.9.1
-sqlite3
+websockets>=11.0
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.28.0
+aiohttp>=3.8.0
 
 # Machine Learning & Optimization
-wandb==0.16.1
-scikit-learn==1.3.2
-scipy==1.11.4
+wandb>=0.15.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
 
 # Scheduling and utilities
-schedule==1.2.0
-python-dotenv==1.0.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
 
 # Data handling
-pickle5==0.0.12
-dataclasses-json==0.6.3
-
-# Logging and monitoring
-structlog==23.2.0
+dataclasses-json>=0.5.0
