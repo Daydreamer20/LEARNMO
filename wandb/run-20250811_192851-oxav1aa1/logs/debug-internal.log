@@ -1,0 +1,14 @@
+{"time":"2025-08-11T19:28:51.5456555+08:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-11T19:35:10.6344956+08:00","level":"INFO","msg":"stream: created new stream","id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:10.6344956+08:00","level":"INFO","msg":"stream: started","id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:10.6344956+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:10.6344956+08:00","level":"INFO","msg":"handler: started","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:10.6344956+08:00","level":"INFO","msg":"sender: started","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:10.6371322+08:00","level":"INFO","msg":"stream: closing","id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:11.9665921+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-08-11T19:35:11.9671359+08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project /high-leverage-multi-bot not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-08-11T19:35:11.9687462+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-11T19:35:11.9693291+08:00","level":"INFO","msg":"sender: closed","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:11.9693291+08:00","level":"INFO","msg":"handler: closed","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:11.9693291+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oxav1aa1"}
+{"time":"2025-08-11T19:35:11.9693291+08:00","level":"INFO","msg":"stream: closed","id":"oxav1aa1"}
